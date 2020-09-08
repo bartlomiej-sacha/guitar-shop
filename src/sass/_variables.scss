@@ -2,15 +2,22 @@ $color-primary: #505a61;
 $color-secondary: #fa3d67;
 $color-white: #ffffff;
 
+$theme-colors: (
+  "primary": #0074d9,
+  "danger": #ff4136,
+  "success": $color-secondary,
+);
+@import "bootstrap";
+
 $font-family: "Montserrat", sans-serif;
 $base-font-size: 16px;
 
 $main-spacing: 20px;
 
 $breakpoints: (
-    xs: 500px,
-    sm: 800px,
-    md: 1000px,
-    lg: 1205px,
-    xl: 1600px,
+  xs: 500px,
+  sm: 800px,
+  md: 1000px,
+  lg: 1205px,
+  xl: 1600px,
 );
