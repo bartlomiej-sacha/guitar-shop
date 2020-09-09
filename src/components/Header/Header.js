@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../../assets/logo.svg'
-import Slider from '../Slider/Slider'
+import Slider from '../Carousel/Carousel'
 
 function Header() {
     return (
