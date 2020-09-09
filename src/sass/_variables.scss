@@ -1,11 +1,12 @@
-$color-primary: #505a61;
-$color-secondary: #fa3d67;
+$color-primary: #fa3d67;
+$color-secondary: #505a61;
 $color-white: #ffffff;
 
 $theme-colors: (
-  "primary": #0074d9,
-  "danger": #ff4136,
-  "success": $color-secondary,
+  "primary": $color-primary,
+  "secondary": $color-secondary,
+  "danger": #ff0d00,
+  "success": $color-primary,
 );
 @import "bootstrap";
 
