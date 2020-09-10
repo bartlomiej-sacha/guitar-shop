@@ -14,7 +14,7 @@ function Header() {
                         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span
                             className="navbar-toggler-icon"></span>
                     </button>
-                    <form className="form-inline ml-auto collapse navbar-collapse flex-grow-0 mr-2">
+                    <form className="d-none d-lg-flex form-inline ml-auto collapse navbar-collapse flex-grow-0 mr-2">
                         <input className="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
                         <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search
                             </button>
@@ -34,11 +34,12 @@ function Header() {
                     </div>
                 </div>
             </nav >
-            <div className="container mt-2">
-                <form className="form-inline flex-nowrap d-md-none">
-                    <input className="form-control mr-2" type="search" placeholder="Search" aria-label="Search" />
-                    <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search
-                            </button>
+            <div className="container mt-2 px-0">
+                <form className="d-flex d-lg-none form-inline flex-nowrap mb-1 px-3 px-sm-0">
+                    <input className="form-control mr-2 flex-grow-1" type="search" placeholder="Search" aria-label="Search" />
+                    <button className="btn btn-outline-success my-2 my-sm-0" type="submit">
+                        Search
+                    </button>
                 </form>
                 <Slider />
             </div>
