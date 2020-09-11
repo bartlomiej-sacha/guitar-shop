@@ -1,0 +1,8 @@
+.card {
+  max-width: 60%;
+  height: auto;
+
+  &:not(:first-child) {
+    @extend .offset-1;
+  }
+}
