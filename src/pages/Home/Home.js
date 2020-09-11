@@ -1,9 +1,13 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import Header from '../../components/Header/Header'
+import CircleItemGallery from '../../components/CircleItemGallery/CircleItemGallery'
 
 function Home() {
     return (
-        <Header />
+        <Fragment>
+            <Header />
+            <CircleItemGallery />
+        </Fragment>
     )
 }
 
