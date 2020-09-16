@@ -3,6 +3,7 @@ import Header from '../../components/Header/Header';
 import CircleItemGallery from '../../components/CircleItemGallery/CircleItemGallery';
 import Parallax from '../../components/Parallax/Parallax';
 import Slider from '../../components/Slider/Slider';
+import Footer from '../../components/Footer/Footer';
 
 function Home() {
   return (
@@ -16,6 +17,7 @@ function Home() {
         }
       />
       <Slider title="Today's Deals" />
+      <Footer />
     </Fragment>
   );
 }
