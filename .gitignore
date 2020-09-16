@@ -18,7 +18,8 @@
 .env.test.local
 .env.production.local
 .env
-
+.Thumbs.db
+Thumbs.db
 
 
 npm-debug.log*
