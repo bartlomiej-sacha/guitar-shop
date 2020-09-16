@@ -1,3 +1,3 @@
-export const calculateDiscount = (num, num2) => {
-    return Math.floor(100 - (num / num2) * 100);
-}
+export const calculateDiscount = (price, oldPrice) => {
+  return Math.floor(100 - (price / oldPrice) * 100);
+};
