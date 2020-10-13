@@ -1,12 +1,12 @@
 import React from 'react';
 import {Col, Container, Row} from 'react-bootstrap';
-import phoneSVG from '../../assets/phone.svg';
-import mailSVG from '../../assets/mail.svg';
 import instagramSVG from '../../assets/instagram.svg';
+import mailSVG from '../../assets/mail.svg';
+import phoneSVG from '../../assets/phone.svg';
 
 function Footer() {
   return (
-    <Container fluid className={'footer mt-4'}>
+    <Container fluid className={'footer mt-4 bg-dark'}>
       <Row className={'text-center text-md-left pt-4 '}>
         <Col xs={12} md={3} xl={2} className={' offset-xl-2'}>
           <h3 className={'font-weight-bold'}>Opening Hours</h3>
