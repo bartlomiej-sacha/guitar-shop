@@ -1,0 +1,66 @@
+{
+  "popularDestinations": [
+    {
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png",
+      "imageHeading": "Top-rated guitars",
+      "imageLink": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png"
+    },
+    {
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png",
+      "imageHeading": "Top-rated guitars",
+      "imageLink": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png"
+    },
+    {
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png",
+      "imageHeading": "Top-rated guitars",
+      "imageLink": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png"
+    },
+    {
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png",
+      "imageHeading": "Top-rated guitars",
+      "imageLink": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png"
+    },
+    {
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png",
+      "imageHeading": "Top-rated guitars",
+      "imageLink": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png"
+    },
+    {
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png",
+      "imageHeading": "Top-rated guitars",
+      "imageLink": "https://res.cloudinary.com/drpag0qar/image/upload/v1599693176/guitar-circle_me1kup.png"
+    }
+  ],
+  "deals": [
+    {
+      "price": 35,
+      "oldPrice": 100,
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599816636/parallax_wrmtve.jpg"
+    },
+    {
+      "price": 125,
+      "oldPrice": 250,
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599816636/parallax_wrmtve.jpg"
+    },
+    {
+      "price": 438,
+      "oldPrice": 692,
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599816636/parallax_wrmtve.jpg"
+    },
+    {
+      "price": 496,
+      "oldPrice": 686,
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599816636/parallax_wrmtve.jpg"
+    },
+    {
+      "price": 385,
+      "oldPrice": 758,
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599816636/parallax_wrmtve.jpg"
+    },
+    {
+      "price": 455,
+      "oldPrice": 622,
+      "imageSrc": "https://res.cloudinary.com/drpag0qar/image/upload/v1599816636/parallax_wrmtve.jpg"
+    }
+  ]
+}
